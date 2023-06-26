@@ -1,0 +1,4 @@
+- 👋 Hi, I’m D. A Joshua
+- 👀 I’m interested in Web, Software Development and Computer Graphics
+- 🌱 I’m currently learning HTML, PHP, C# and Photoshop
+- 📫 How to reach me: joshdammy@gmail.com
